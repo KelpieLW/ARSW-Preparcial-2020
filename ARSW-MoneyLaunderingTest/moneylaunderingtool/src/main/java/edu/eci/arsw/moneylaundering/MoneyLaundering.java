@@ -75,7 +75,7 @@ public class MoneyLaundering
         MoneyLaundering moneyLaundering = new MoneyLaundering();
 //        Thread processingThread = new Thread(() -> moneyLaundering.processTransactionData(5));
 //        processingThread.start();
-        moneyLaundering.processTransactionData(5);
+        moneyLaundering.processTransactionData(20);
 
         while(true)
         {

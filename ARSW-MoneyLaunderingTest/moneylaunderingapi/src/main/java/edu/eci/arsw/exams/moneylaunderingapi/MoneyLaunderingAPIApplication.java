@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MoneyLaunderingAPIApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MoneyLaunderingAPIApplication.class, args);
 	}
 
